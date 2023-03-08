@@ -15,8 +15,8 @@
     <li class="nav-item dropdown">
         <a class="nav-link" role ="button" data-bs-toggle="dropdown" href="#">Proyectos</a>
         <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="./formProyectos">Añadir proyectos</a></li>
-            <li><a class="dropdown-item" href="./viewProyectos">Ver proyectos</a></li>
+            <li><a class="dropdown-item" href="./formProyectos.php">Añadir proyectos</a></li>
+            <li><a class="dropdown-item" href="./viewProyectos.php">Ver proyectos</a></li>
 
         </ul>
     </li>

@@ -3,7 +3,7 @@
 $server = 'localhost';
 $user ='root';
 $password ='';
-$database = "taller";
+$database = "tallerphp";
 
 $conn = mysqli_connect($server,$user,$password,$database);
 
@@ -12,7 +12,7 @@ if(!$conn){
 }
 
 else{
-    echo"iia tu dice";
+   // echo"iia tu dice";
 }
 
 
